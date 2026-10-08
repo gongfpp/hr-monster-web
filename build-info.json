@@ -1,0 +1,63 @@
+{
+  "source_repository": "gongfpp/hr-monster",
+  "source_commit": "5a03d8b783829a09fd6657111c40fcf808923115",
+  "godot_version": "4.7.2",
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "README.md": {
+      "bytes": 575,
+      "sha256": "3054e0bd248cfb5b7380774566bb6268b9f7785e128d823e76a880bf679c678e"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 12926,
+      "sha256": "88bcc0020d9ff1207193205414fbe79a7b90893f08428320f820babb5de822d0"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 2654,
+      "sha256": "6a5ea57ef7e7b86824bfd827a6b7d49e222d8d48c0b966ff991bd8b90d667096"
+    },
+    "index.icon.png": {
+      "bytes": 6354,
+      "sha256": "7bcd28dd9f7446527f74419bbb447f5ec5e99e87b4ad47aa36f9cfefd954c578"
+    },
+    "index.js": {
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    "index.pck": {
+      "bytes": 18625908,
+      "sha256": "6d766c9b1747b0fd7411c1166f68b46ff1c1367c18b8903fbe8271cd7c02db44"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "licenses/Godot-COPYRIGHT.txt": {
+      "bytes": 100108,
+      "sha256": "cb1980c88089573bcacd7221d777c689bb8bbd778799f24c27fca0fe5f774d6d"
+    },
+    "licenses/Godot-LICENSE.txt": {
+      "bytes": 1149,
+      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
+    },
+    "licenses/NotoSansSC-OFL.txt": {
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    }
+  }
+}
