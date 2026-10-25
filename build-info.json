@@ -1,6 +1,6 @@
 {
   "source_repository": "gongfpp/hr-monster",
-  "source_commit": "5a03d8b783829a09fd6657111c40fcf808923115",
+  "source_commit": "ecc477cde04c2ceda727d7e611f888696b394f00",
   "godot_version": "4.7.2",
   "files": {
     ".nojekyll": {
@@ -8,8 +8,12 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "README.md": {
-      "bytes": 575,
-      "sha256": "3054e0bd248cfb5b7380774566bb6268b9f7785e128d823e76a880bf679c678e"
+      "bytes": 1019,
+      "sha256": "4a4b58cda1d41ddc55ab9c09bded7c772cd5dd6cce8f960089bcbcb08045e01a"
+    },
+    "docs/screenshots/home.png": {
+      "bytes": 1896098,
+      "sha256": "e01ff402263447b61c2a90e53669747432a4cdf762bf7ff8206e4cca60494c71"
     },
     "index.apple-touch-icon.png": {
       "bytes": 12926,
@@ -25,7 +29,7 @@
     },
     "index.html": {
       "bytes": 2654,
-      "sha256": "6a5ea57ef7e7b86824bfd827a6b7d49e222d8d48c0b966ff991bd8b90d667096"
+      "sha256": "2024290305de2a8e2da4549ceb4559a7a39b7b5a947c2cfc0628044287a18dc3"
     },
     "index.icon.png": {
       "bytes": 6354,
@@ -36,8 +40,8 @@
       "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
     },
     "index.pck": {
-      "bytes": 18625908,
-      "sha256": "6d766c9b1747b0fd7411c1166f68b46ff1c1367c18b8903fbe8271cd7c02db44"
+      "bytes": 27242100,
+      "sha256": "fd9fc89fe04aa7541def5efc34010d7e8cbddeb886c00c3a678292d272684471"
     },
     "index.png": {
       "bytes": 21443,
@@ -58,6 +62,10 @@
     "licenses/NotoSansSC-OFL.txt": {
       "bytes": 4301,
       "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    "screenshots/incident.png": {
+      "bytes": 1763726,
+      "sha256": "d833812e677b1e2916fdedba2fcea08e3a0cafe0a0468615c68bf50781d49c9b"
     }
   }
 }
