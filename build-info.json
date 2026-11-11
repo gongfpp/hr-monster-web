@@ -28,8 +28,8 @@
       "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
     },
     "index.html": {
-      "bytes": 2654,
-      "sha256": "2024290305de2a8e2da4549ceb4559a7a39b7b5a947c2cfc0628044287a18dc3"
+      "bytes": 5665,
+      "sha256": "bea6cf4d52188d62d76f110d4512314a66675d6112313bf2edc8fbb9892fe911"
     },
     "index.icon.png": {
       "bytes": 6354,
@@ -67,5 +67,11 @@
       "bytes": 1763726,
       "sha256": "d833812e677b1e2916fdedba2fcea08e3a0cafe0a0468615c68bf50781d49c9b"
     }
+  },
+  "visitor_footer": {
+    "site": "hr-monster",
+    "client_sha256": "fa91d3d6a17d006a660c5d32ece8828ea74717ca03d6c291b675518e7fb44021",
+    "base_runtime_unchanged": true,
+    "source_commit": "bb96774f558c7c6920f8a283c6b9ce382bf8f119"
   }
 }
