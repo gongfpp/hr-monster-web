@@ -28,8 +28,8 @@
       "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
     },
     "index.html": {
-      "bytes": 7520,
-      "sha256": "7d5d235a91cc3588e111e18f58cf955ffe4e4dfd434898398d697edc2678fdd1"
+      "bytes": 19642,
+      "sha256": "eb34ec1aec102506d6a17381339a80a1da632d8016b84265e9056168ac15db3c"
     },
     "index.icon.png": {
       "bytes": 6354,
@@ -73,5 +73,13 @@
     "client_sha256": "a91e0568629bfa4b0818398965f3dab4e7239dc7cedae61882c1c4435934cf57",
     "base_runtime_unchanged": true,
     "source_commit": "a0918960671b341208e17590dedc519dec4b72b7"
+  },
+  "web_page_events": {
+    "site": "hr-monster",
+    "client_sha256": "fc1953ec845b25ba5017fd3889c2426b2e3b4c6f87fbe9cb40eb8e69819009af",
+    "source_commit": "f3a7ba0d69e73e9bfd7392dfaf4a5dc94660e468",
+    "base_runtime_unchanged": true,
+    "channel": "github-pages",
+    "scope": "outer-page-only"
   }
 }
